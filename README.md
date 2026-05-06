@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Martheus Kenn Banaag
+# Hi, I'm Martheus Kenn Banaag
 
-## 🚀 About Me
+## About Me
 
 I'm an IT graduate from the Philippines focused on **Programming** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
 
-* 🌐 Programming & Network Engineering
+* Programming & Network Engineering
 
 ## 🧰 Tech Stack & Tools
 
