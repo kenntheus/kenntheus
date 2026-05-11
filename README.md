@@ -1,4 +1,4 @@
-# Hi!, I'm Martheus Kenn Banaag
+# Hi, I'm Martheus Kenn Banaag
 
 ## About Me
 
