@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm an IT graduate from the Philippines focused on **Programming** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
+I'm an IT graduate from the Philippines focused on **AI Engineer** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
 
-* Programming & Network Engineering
+* AI Software & Network Engineering
 
 ## 🧰 Tech Stack & Tools
 
