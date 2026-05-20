@@ -1,4 +1,4 @@
-👋🏻 Hey, I'm Martheus Kenn                       
+Hey, I'm Martheus Kenn                       
 Full-Stack Developer • Network Engineering Enthusiast • Aspiring AI Engineer
 
 * 💻 Building AI-powered systems, web and mobile applications, and network solutions
