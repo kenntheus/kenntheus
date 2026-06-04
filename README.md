@@ -1,6 +1,6 @@
 ## Hey, I'm Martheus Kenn
 
-**Full-Stack Developer • Network Security Practitioner • AI Engineer**
+**Full-Stack Software Engineer • Network Security Practitioner**
 
 - 💻 Building production apps, REST APIs, and AI-powered systems
 - 🔐 Designing and securing network infrastructure for real deployments
