@@ -8,7 +8,7 @@
 
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=dart,python,js,php,java,kotlin,swift)](h
+[![Languages](https://skillicons.dev/icons?i=dart,python,js,php,java,kotlin,swift)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=flutter,react,nodejs,express,fastapi,laravel,mongodb,mysql,docker,kubernetes)](https://skillicons.dev)
