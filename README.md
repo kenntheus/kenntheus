@@ -7,7 +7,7 @@
 - 🛠️ Check out my work at my [Portfolio](https://kenntheus.github.io/)
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,java,kotlin,swift" height="40" />
+<img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,cs,java,kotlin,swift" height="40" />
 
 ### Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,fastapi,laravel,mongodb,mysql,docker,kubernetes" height="40" />
