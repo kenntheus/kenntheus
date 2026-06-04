@@ -6,11 +6,12 @@ Full-Stack Developer • Network Security Practitioner • AI Engineer
 * 🛠️ All my projects are at my [Portfolio](https://kenntheus.github.io/)
 
 
-Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=dart,python,js,php,java,kotlin,swift)](https://skillicons.dev)
 
-Tools
+### Tools
 [![Tools](https://skillicons.dev/icons?i=flutter,react,nodejs,express,fastapi,laravel,mongodb,mysql,docker,kubernetes)](https://skillicons.dev)
 
-Deployments
+### Deployment
 [![Deployment](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,aws)](https://skillicons.dev)
+
