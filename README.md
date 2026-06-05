@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,cs,java,kotlin" height="40" />
 
 ### Frameworks and Tools
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,django,fastapi,mongodb,mysql,sqlite,docker,kubernetes" height="40" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,django,fastapi,mongodb,mysql,sqlite,docker,kubernetes,linux" height="40" />
 
 ### Deployment
 <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,aws,azure" height="40" />
