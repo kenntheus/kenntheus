@@ -7,7 +7,7 @@
 - 🛠️ Check out my work at my [Portfolio](https://martheuskenn.vercel.app)
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,cs,java,kotlin,swift" height="40" />
+<img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,cs,java,kotlin" height="40" />
 
 ### Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,laravel,fastapi,mongodb,mysql,docker,kubernetes" height="40" />
