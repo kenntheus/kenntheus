@@ -4,7 +4,7 @@
 
 - 💻 Building production apps, REST APIs, and AI-powered systems
 - 🔐 Designing and securing network infrastructure for real deployments
-- 🛠️ Check out my work at my [Portfolio](https://martheuskenn.vercel.app)
+- 🛠️ Check out my work at my [Portfolio](https://martheus-kenn.vercel.app)
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=dart,python,js,ts,php,cs,java,kotlin" height="40" />
